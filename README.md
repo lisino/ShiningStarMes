@@ -1,3 +1,3 @@
 # ShiningStarMes
 
-For new company , new way to success
+For new test , new way to success
